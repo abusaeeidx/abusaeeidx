@@ -5,6 +5,13 @@
 🌐 Currently working on Open-source streaming tools + automation bots  
 
 ---
+## 🧠 About Me  
+- 🔭 I’m currently working on: **Auto-updated IPTV/M3U playlists, Scraper Bots & Streaming APIs**  
+- 🧩 Interested in: **Web Scraping, Data Automation, Smart API Bots**   
+- ⚡ Fun fact: I automate almost everything 😎  
+---
+
+
 ### 🧠 Programming Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,12 +26,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abusaeeidx&theme=dark&hide_border=false)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abusaeeidx&theme=dark&hide_border=false&include_all_commits=false&layout=compact)  
 
----
-
-## 🧠 About Me  
-- 🔭 I’m currently working on: **Auto-updated IPTV/M3U playlists, Scraper Bots & Streaming APIs**  
-- 🧩 Interested in: **Web Scraping, Data Automation, Smart API Bots**   
-- ⚡ Fun fact: I automate almost everything 😎  
 ---
 
 ## 📂 Featured Projects:  
